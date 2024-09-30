@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a62919d987538692",
+        "id": "7027a2dea578b146",
         "type": "tabs",
         "children": [
           {
-            "id": "6936ef58fb88b4f6",
+            "id": "395d58981ad08a80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to DFIR/27.09.2024, Cywaria(splunk,HR opening malicious file).md",
+                "file": "Enterprise Defenses/30.09.2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro to DFIR/27.09.2024, Cywaria(splunk,HR opening malicious file).md",
+                "file": "Enterprise Defenses/30.09.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro to DFIR/27.09.2024, Cywaria(splunk,HR opening malicious file).md",
+                "file": "Enterprise Defenses/30.09.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro to DFIR/27.09.2024, Cywaria(splunk,HR opening malicious file).md"
+                "file": "Enterprise Defenses/30.09.2024.md"
               }
             }
           },
@@ -155,14 +155,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6936ef58fb88b4f6",
+  "active": "395d58981ad08a80",
   "lastOpenFiles": [
+    "Enterprise Defenses/27.09.2024, Cywaria(splunk,HR opening malicious file).md",
+    "Enterprise Defenses/30.09.2024.md",
+    "Enterprise Defenses/25.09.2024 Module 1.1.md",
     "Red for Blue/26.09.2024 Lab-Advanced Fundamentals.md",
-    "Intro to DFIR/27.09.2024, Cywaria(splunk,HR opening malicious file).md",
     "Red for Blue/24.09.2024 PowerShell.md",
     "Intro to DFIR/26.09.2024 Module 4, Containment and Evidence Collection and Module 5, Eradication, Recovery, and Lessons Learned.md",
     "Intro to DFIR/25.09.2024 Module 3, Triage.md",
-    "Enterprise Defenses/25.09.2024 Module 1.1.md",
     "Untitled",
     "Intro to DFIR/23.09.2024 Module 0, Incident Response 101.md",
     "Untitled.md",
