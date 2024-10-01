@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
+                "file": "Books/Books.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
+                "file": "Books/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
+                "file": "Books/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md"
+                "file": "Books/Books.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "395d58981ad08a80",
   "lastOpenFiles": [
-    "Intro to DFIR/30.09.2024 Module 7, Forensics.md",
     "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
+    "Intro to DFIR/30.09.2024 Module 7, Forensics.md",
+    "Books/Books.md",
+    "Books",
     "Intro to DFIR/23.09.2024 Module 0, Incident Response 101.md",
     "2024-10-01.md",
     "Untitled.canvas",
@@ -171,7 +173,6 @@
     "Red for Blue/26.09.2024 Lab-Advanced Fundamentals.md",
     "Red for Blue/24.09.2024 PowerShell.md",
     "Intro to DFIR/25.09.2024 Module 3, Triage.md",
-    "Untitled",
     "images",
     "Intro to DFIR/24.09.2024 Module 1, Incident Handling, Preparation Module 2, Detection.md",
     "images/Pasted image 20240924145352.png",
