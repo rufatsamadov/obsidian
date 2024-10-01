@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Books.md",
+                "file": "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Books.md",
+                "file": "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Books.md",
+                "file": "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Books.md"
+                "file": "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md"
               }
             }
           },
@@ -157,9 +157,12 @@
   },
   "active": "395d58981ad08a80",
   "lastOpenFiles": [
+    "images/Pasted image 20241001114508.png",
+    "images/Pasted image 20241001113729.png",
+    "images/Pasted image 20241001113246.png",
+    "Books/Books.md",
     "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
     "Intro to DFIR/30.09.2024 Module 7, Forensics.md",
-    "Books/Books.md",
     "Books",
     "Intro to DFIR/23.09.2024 Module 0, Incident Response 101.md",
     "2024-10-01.md",
