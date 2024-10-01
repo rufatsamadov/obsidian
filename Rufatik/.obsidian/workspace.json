@@ -11,8 +11,12 @@
             "id": "395d58981ad08a80",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md"
+              }
             }
           },
           {
@@ -149,9 +157,11 @@
   },
   "active": "395d58981ad08a80",
   "lastOpenFiles": [
+    "Intro to DFIR/30.09.2024 Module 7, Forensics.md",
+    "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
+    "Intro to DFIR/23.09.2024 Module 0, Incident Response 101.md",
     "2024-10-01.md",
     "Untitled.canvas",
-    "Intro to DFIR/30.09.2024 Module 7, Forensics.md",
     "Intro to DFIR/30.09.2024 Module 6, The Scientific Method.md",
     "Intro to DFIR/26.09.2024 Module 4, Containment and Evidence Collection and Module 5, Eradication, Recovery, and Lessons Learned.md",
     "Untitled.md",
@@ -162,7 +172,6 @@
     "Red for Blue/24.09.2024 PowerShell.md",
     "Intro to DFIR/25.09.2024 Module 3, Triage.md",
     "Untitled",
-    "Intro to DFIR/23.09.2024 Module 0, Incident Response 101.md",
     "images",
     "Intro to DFIR/24.09.2024 Module 1, Incident Handling, Preparation Module 2, Detection.md",
     "images/Pasted image 20240924145352.png",
