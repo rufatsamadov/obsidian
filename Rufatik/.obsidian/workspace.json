@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to DFIR/02.10.2024.md",
+                "file": "Intro to DFIR/02.10.2024 Module 9, Digital Evidence Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro to DFIR/02.10.2024.md",
+                "file": "Intro to DFIR/02.10.2024 Module 9, Digital Evidence Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro to DFIR/02.10.2024.md",
+                "file": "Intro to DFIR/02.10.2024 Module 9, Digital Evidence Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro to DFIR/02.10.2024.md"
+                "file": "Intro to DFIR/02.10.2024 Module 9, Digital Evidence Analysis.md"
               }
             }
           },
@@ -158,7 +158,7 @@
   "active": "395d58981ad08a80",
   "lastOpenFiles": [
     "Red for Blue/02.10.2024 Module 2, Powershell Scripting.md",
-    "Intro to DFIR/02.10.2024.md",
+    "Intro to DFIR/02.10.2024 Module 9, Digital Evidence Analysis.md",
     "images/Pasted image 20241002113147.png",
     "Red for Blue/26.09.2024 Lab-Advanced Fundamentals.md",
     "Red for Blue/24.09.2024 Module 1, PowerShell.md",
