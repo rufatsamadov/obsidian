@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 211.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,12 +157,14 @@
   },
   "active": "395d58981ad08a80",
   "lastOpenFiles": [
+    "images/Pasted image 20241002094452.png",
+    "Enterprise Defenses/01.10.2024.md",
+    "Enterprise Defenses/27.09.2024 Cywaria(splunk,HR opening malicious file).md",
+    "Red for Blue/02.10.2024 Powershell Scripting.md",
     "images/Pasted image 20241002093237.png",
     "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
-    "Red for Blue/02.10.2024 Powershell Scripting.md",
     "Intro to DFIR/23.09.2024 Module 0, Incident Response 101.md",
     "Books/Books.md",
-    "Enterprise Defenses/01.10.2024.md",
     "Untitled.canvas",
     "Intro to DFIR/24.09.2024 Module 1, Incident Handling, Preparation Module 2, Detection.md",
     "Intro to DFIR/25.09.2024 Module 3, Triage.md",
@@ -170,7 +172,6 @@
     "Intro to DFIR/30.09.2024 Module 6, The Scientific Method.md",
     "Intro to DFIR/30.09.2024 Module 7, Forensics.md",
     "Enterprise Defenses/30.09.2024 Cywaria(HR continued).md",
-    "Enterprise Defenses/27.09.2024 Cywaria(splunk,HR opening malicious file).md",
     "images/Pasted image 20241001114508.png",
     "images/Pasted image 20241001113729.png",
     "images/Pasted image 20241001113246.png",
