@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red for Blue/02.10.2024.md",
+                "file": "Red for Blue/02.10.2024 Powershell Scripting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red for Blue/02.10.2024.md",
+                "file": "Red for Blue/02.10.2024 Powershell Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red for Blue/02.10.2024.md",
+                "file": "Red for Blue/02.10.2024 Powershell Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red for Blue/02.10.2024.md"
+                "file": "Red for Blue/02.10.2024 Powershell Scripting.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "395d58981ad08a80",
   "lastOpenFiles": [
+    "images/Pasted image 20241002093237.png",
     "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
-    "Red for Blue/02.10.2024.md",
+    "Red for Blue/02.10.2024 Powershell Scripting.md",
     "Intro to DFIR/23.09.2024 Module 0, Incident Response 101.md",
     "Books/Books.md",
     "Enterprise Defenses/01.10.2024.md",
