@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enterprise Defenses/01.10.2024.md",
+                "file": "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enterprise Defenses/01.10.2024.md",
+                "file": "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enterprise Defenses/01.10.2024.md",
+                "file": "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enterprise Defenses/01.10.2024.md"
+                "file": "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "395d58981ad08a80",
   "lastOpenFiles": [
-    "Enterprise Defenses/27.09.2024 Cywaria(splunk,HR opening malicious file).md",
-    "Enterprise Defenses/30.09.2024 Cywaria(HR continued).md",
     "Enterprise Defenses/01.10.2024.md",
+    "Enterprise Defenses/30.09.2024 Cywaria(HR continued).md",
+    "Enterprise Defenses/27.09.2024 Cywaria(splunk,HR opening malicious file).md",
     "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
     "images/Pasted image 20241001114508.png",
     "images/Pasted image 20241001113729.png",
