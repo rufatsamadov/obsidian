@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to DFIR/02.10.2024 Module 9, Digital Evidence Analysis.md",
+                "file": "Notes for Interview/02.10.2024 All Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro to DFIR/02.10.2024 Module 9, Digital Evidence Analysis.md",
+                "file": "Notes for Interview/02.10.2024 All Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro to DFIR/02.10.2024 Module 9, Digital Evidence Analysis.md",
+                "file": "Notes for Interview/02.10.2024 All Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro to DFIR/02.10.2024 Module 9, Digital Evidence Analysis.md"
+                "file": "Notes for Interview/02.10.2024 All Questions.md"
               }
             }
           },
@@ -157,13 +157,16 @@
   },
   "active": "395d58981ad08a80",
   "lastOpenFiles": [
+    "Intro to DFIR/02.10.2024 Module 9, Digital Evidence Analysis.md",
+    "images/WhatsApp Image 2024-10-02 at 16.46.12_4e9cbc45.jpg",
+    "Notes for Interview/02.10.2024 All Questions.md",
+    "Notes for Interview",
     "images/Pasted image 20241002142735.png",
     "images/Pasted image 20241002141358.png",
     "images/Pasted image 20241002140802.png",
     "images/Pasted image 20241002135824.png",
     "images/Pasted image 20241002135808.png",
     "Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
-    "Intro to DFIR/02.10.2024 Module 9, Digital Evidence Analysis.md",
     "Red for Blue/02.10.2024 Module 2, Powershell Scripting.md",
     "images/Pasted image 20241002113147.png",
     "Red for Blue/26.09.2024 Lab-Advanced Fundamentals.md",
@@ -171,8 +174,6 @@
     "images/Pasted image 20241002095435.png",
     "images/Pasted image 20241002095430.png",
     "images/Pasted image 20241002095214.png",
-    "images/Pasted image 20241002094929.png",
-    "images/Pasted image 20241002094824.png",
     "Enterprise Defenses/01.10.2024.md",
     "Enterprise Defenses/27.09.2024 Cywaria(splunk,HR opening malicious file).md",
     "Intro to DFIR/23.09.2024 Module 0, Incident Response 101.md",
