@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "file": "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "file": "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "file": "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md"
+                "file": "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md"
               }
             }
           },
@@ -157,13 +157,16 @@
   },
   "active": "b71deb2e7514eb49",
   "lastOpenFiles": [
-    "README.md",
+    "Rufatik/Enterprise Defenses/01.10.2024.md",
+    "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
+    "2024-10-03.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+    "README.md",
     "Rufatik/images/WhatsApp Image 2024-10-02 at 16.46.12_4e9cbc45 1.jpg",
     "Rufatik/images/WhatsApp Image 2024-10-02 at 16.46.12_4e9cbc45.jpg",
-    "Rufatik/Enterprise Defenses/01.10.2024.md",
     "Rufatik/Notes for Interview",
-    "Untitled",
-    "Untitled.canvas"
+    "Untitled"
   ]
 }
