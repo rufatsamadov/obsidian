@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "file": "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "file": "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "file": "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md"
+                "file": "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md"
               }
             }
           },
@@ -157,11 +157,12 @@
   },
   "active": "b71deb2e7514eb49",
   "lastOpenFiles": [
+    "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+    "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
     "Rufatik/Red for Blue/04.10.2024 Module 3, Powershell Functions.md",
     "conflict-files-obsidian-git.md",
     "Rufatik/Attachments/Pasted image 20241004095947.png",
     "Rufatik/Attachments/Pasted image 20241004095907.png",
-    "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
     "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
     "Rufatik/Enterprise Defenses/01.10.2024.md",
     "2024-10-03.md",
