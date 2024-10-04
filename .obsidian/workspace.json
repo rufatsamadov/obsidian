@@ -18,20 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a283c3ae540c5e7c",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
-                "staged": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +151,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a283c3ae540c5e7c",
+  "active": "4b6ac51bd502df6e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Rufatik/Red for Blue/04.10.2024 Module 3, Powershell Functions.md",
