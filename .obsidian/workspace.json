@@ -18,8 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a283c3ae540c5e7c",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "staged": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/Red for Blue/04.10.2024 Module 3, Powershell Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/Red for Blue/04.10.2024 Module 3, Powershell Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rufatik/Red for Blue/04.10.2024 Module 3, Powershell Functions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,12 +163,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b71deb2e7514eb49",
+  "active": "a283c3ae540c5e7c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Rufatik/Red for Blue/04.10.2024 Module 3, Powershell Functions.md",
     "Rufatik/Attachments/Pasted image 20241004095947.png",
     "Rufatik/Attachments/Pasted image 20241004095907.png",
     "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
-    "Rufatik/Red for Blue/04.10.2024 Module 3, Powershell Functions.md",
     "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
     "Rufatik/Enterprise Defenses/01.10.2024.md",
     "2024-10-03.md",
