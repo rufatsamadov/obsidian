@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
+                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f25a07f09070d8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,14 +98,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
+                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,8 +115,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
-                "linksCollapsed": false,
+                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md"
+                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md"
               }
             }
           },
@@ -155,23 +168,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b71deb2e7514eb49",
+  "active": "9f25a07f09070d8c",
   "lastOpenFiles": [
-    "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
-    "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
     "Rufatik/Red for Blue/04.10.2024 Module 3, Powershell Functions.md",
-    "conflict-files-obsidian-git.md",
+    "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
     "Rufatik/Attachments/Pasted image 20241004095947.png",
     "Rufatik/Attachments/Pasted image 20241004095907.png",
+    "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+    "conflict-files-obsidian-git.md",
+    "Rufatik/Vocabulary/English.md",
+    "Rufatik/Vocabulary",
     "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
-    "Rufatik/Enterprise Defenses/01.10.2024.md",
-    "2024-10-03.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
+    "Rufatik/Attachments/WhatsApp Image 2024-10-02 at 16.46.12_4e9cbc45.jpg",
+    "Rufatik/Attachments/Pasted image 20241003130330.png",
+    "Rufatik/Attachments/Pasted image 20241003130303.png",
+    "Rufatik/Attachments/Pasted image 20241003122612.png",
+    "Rufatik/Attachments/Pasted image 20241002142735.png",
+    "Rufatik/Attachments/Pasted image 20241002141358.png",
+    "Rufatik/Attachments/Pasted image 20241002135824.png",
+    "Rufatik/Attachments/Pasted image 20241002140802.png",
+    "Rufatik/Attachments",
     "README.md",
-    "Rufatik/images/WhatsApp Image 2024-10-02 at 16.46.12_4e9cbc45 1.jpg",
-    "Rufatik/images/WhatsApp Image 2024-10-02 at 16.46.12_4e9cbc45.jpg",
+    "Rufatik/Enterprise Defenses/01.10.2024.md",
     "Rufatik/Notes for Interview",
-    "Untitled"
+    "Untitled",
+    "Untitled.canvas"
   ]
 }
