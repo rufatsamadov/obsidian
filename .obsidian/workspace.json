@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md"
+                "file": "README.md"
               }
             }
           },
@@ -170,11 +170,11 @@
   },
   "active": "9f25a07f09070d8c",
   "lastOpenFiles": [
+    "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
     "Rufatik/Red for Blue/04.10.2024 Module 3, Powershell Functions.md",
     "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
     "Rufatik/Attachments/Pasted image 20241004095947.png",
     "Rufatik/Attachments/Pasted image 20241004095907.png",
-    "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
     "conflict-files-obsidian-git.md",
     "Rufatik/Vocabulary/English.md",
     "Rufatik/Vocabulary",
