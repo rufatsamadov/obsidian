@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rufatik/Youtube/Modern web.md",
+                "file": "Rufatik/Intro to DFIR/24.09.2024 Module 1, Incident Handling, Preparation Module 2, Detection.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/Youtube/Modern web.md",
+                "file": "Rufatik/Intro to DFIR/24.09.2024 Module 1, Incident Handling, Preparation Module 2, Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/Youtube/Modern web.md",
+                "file": "Rufatik/Intro to DFIR/24.09.2024 Module 1, Incident Handling, Preparation Module 2, Detection.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rufatik/Youtube/Modern web.md"
+                "file": "Rufatik/Intro to DFIR/24.09.2024 Module 1, Incident Handling, Preparation Module 2, Detection.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "9f25a07f09070d8c",
   "lastOpenFiles": [
-    "README.md",
+    "Rufatik/Intro to DFIR/23.09.2024 Module 0, Incident Response 101.md",
     "Rufatik/Youtube/Modern web.md",
+    "README.md",
     "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
     "Rufatik/Youtube",
     "Rufatik/Red for Blue/04.10.2024 Module 3, Powershell Functions.md",
