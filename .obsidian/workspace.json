@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
+                "file": "Rufatik/GRC/07.10.2024 Module 1, Introduction to GRC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
+                "file": "Rufatik/GRC/07.10.2024 Module 1, Introduction to GRC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
+                "file": "Rufatik/GRC/07.10.2024 Module 1, Introduction to GRC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md"
+                "file": "Rufatik/GRC/07.10.2024 Module 1, Introduction to GRC.md"
               }
             }
           },
@@ -157,6 +157,9 @@
   },
   "active": "b71deb2e7514eb49",
   "lastOpenFiles": [
+    "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
+    "Rufatik/GRC/07.10.2024 Module 1, Introduction to GRC.md",
+    "Rufatik/GRC",
     "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
     "Rufatik/Youtube/Modern web.md",
     "Rufatik/Youtube",
@@ -165,7 +168,6 @@
     "conflict-files-obsidian-git.md",
     "Rufatik/Attachments/Pasted image 20241004095947.png",
     "Rufatik/Attachments/Pasted image 20241004095907.png",
-    "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
     "Rufatik/Enterprise Defenses/01.10.2024.md",
     "2024-10-03.md",
     "Untitled 1.canvas",
