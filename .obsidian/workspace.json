@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f25a07f09070d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rufatik/Intro to DFIR/24.09.2024 Module 1, Incident Handling, Preparation Module 2, Detection.md",
+                "file": "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/Intro to DFIR/24.09.2024 Module 1, Incident Handling, Preparation Module 2, Detection.md",
+                "file": "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -115,8 +102,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/Intro to DFIR/24.09.2024 Module 1, Incident Handling, Preparation Module 2, Detection.md",
-                "linksCollapsed": true,
+                "file": "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rufatik/Intro to DFIR/24.09.2024 Module 1, Incident Handling, Preparation Module 2, Detection.md"
+                "file": "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md"
               }
             }
           },
@@ -155,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,33 +155,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f25a07f09070d8c",
+  "active": "b71deb2e7514eb49",
   "lastOpenFiles": [
-    "Rufatik/Intro to DFIR/23.09.2024 Module 0, Incident Response 101.md",
-    "Rufatik/Youtube/Modern web.md",
-    "README.md",
-    "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
-    "Rufatik/Youtube",
-    "Rufatik/Red for Blue/04.10.2024 Module 3, Powershell Functions.md",
     "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
+    "Rufatik/Youtube/Modern web.md",
+    "Rufatik/Youtube",
+    "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+    "Rufatik/Red for Blue/04.10.2024 Module 3, Powershell Functions.md",
+    "conflict-files-obsidian-git.md",
     "Rufatik/Attachments/Pasted image 20241004095947.png",
     "Rufatik/Attachments/Pasted image 20241004095907.png",
-    "conflict-files-obsidian-git.md",
-    "Rufatik/Vocabulary/English.md",
-    "Rufatik/Vocabulary",
     "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
-    "Rufatik/Attachments/WhatsApp Image 2024-10-02 at 16.46.12_4e9cbc45.jpg",
-    "Rufatik/Attachments/Pasted image 20241003130330.png",
-    "Rufatik/Attachments/Pasted image 20241003130303.png",
-    "Rufatik/Attachments/Pasted image 20241003122612.png",
-    "Rufatik/Attachments/Pasted image 20241002142735.png",
-    "Rufatik/Attachments/Pasted image 20241002141358.png",
-    "Rufatik/Attachments/Pasted image 20241002135824.png",
-    "Rufatik/Attachments/Pasted image 20241002140802.png",
-    "Rufatik/Attachments",
     "Rufatik/Enterprise Defenses/01.10.2024.md",
+    "2024-10-03.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "README.md",
+    "Rufatik/images/WhatsApp Image 2024-10-02 at 16.46.12_4e9cbc45 1.jpg",
+    "Rufatik/images/WhatsApp Image 2024-10-02 at 16.46.12_4e9cbc45.jpg",
     "Rufatik/Notes for Interview",
-    "Untitled",
-    "Untitled.canvas"
+    "Untitled"
   ]
 }
