@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rufatik/GRC/07.10.2024 Module 1, Introduction to GRC.md",
+                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/GRC/07.10.2024 Module 1, Introduction to GRC.md",
+                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/GRC/07.10.2024 Module 1, Introduction to GRC.md",
+                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rufatik/GRC/07.10.2024 Module 1, Introduction to GRC.md"
+                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "b71deb2e7514eb49",
   "lastOpenFiles": [
-    "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
+    "Rufatik/Attachments/Pasted image 20241008073616.png",
     "Rufatik/GRC/07.10.2024 Module 1, Introduction to GRC.md",
+    "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
     "Rufatik/GRC",
     "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
     "Rufatik/Youtube/Modern web.md",
