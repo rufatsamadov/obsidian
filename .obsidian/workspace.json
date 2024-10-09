@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f25a07f09070d8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -103,7 +116,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -142,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,31 +168,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b71deb2e7514eb49",
+  "active": "9f25a07f09070d8c",
   "lastOpenFiles": [
-    "Rufatik/OpSec/09.10.2024 Module 1.md",
-    "Rufatik/Notes for Interview/Kerberoasting.md",
-    "Rufatik/OpSec",
-    "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
-    "Rufatik/Attachments/Pasted image 20241008073616.png",
     "Rufatik/GRC/07.10.2024 Module 1, Introduction to GRC.md",
-    "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
-    "Rufatik/GRC",
-    "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
     "Rufatik/Youtube/Modern web.md",
+    "Rufatik/Intro to DFIR/24.09.2024 Module 1, Incident Handling, Preparation Module 2, Detection.md",
+    "Rufatik/OpSec/09.10.2024 Module 1.md",
+    "Rufatik/OpSec",
+    "Rufatik/Notes for Interview/Kerberoasting.md",
+    "Rufatik/GRC",
+    "Rufatik/Attachments/Pasted image 20241008073616.png",
+    "Rufatik/Intro to DFIR/23.09.2024 Module 0, Incident Response 101.md",
+    "README.md",
+    "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
     "Rufatik/Youtube",
     "Rufatik/Red for Blue/04.10.2024 Module 3, Powershell Functions.md",
-    "conflict-files-obsidian-git.md",
+    "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
     "Rufatik/Attachments/Pasted image 20241004095947.png",
     "Rufatik/Attachments/Pasted image 20241004095907.png",
+    "conflict-files-obsidian-git.md",
+    "Rufatik/Vocabulary/English.md",
+    "Rufatik/Vocabulary",
+    "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
+    "Rufatik/Attachments/WhatsApp Image 2024-10-02 at 16.46.12_4e9cbc45.jpg",
+    "Rufatik/Attachments/Pasted image 20241003130330.png",
+    "Rufatik/Attachments/Pasted image 20241003130303.png",
+    "Rufatik/Attachments/Pasted image 20241003122612.png",
+    "Rufatik/Attachments/Pasted image 20241002142735.png",
+    "Rufatik/Attachments/Pasted image 20241002141358.png",
+    "Rufatik/Attachments/Pasted image 20241002135824.png",
+    "Rufatik/Attachments",
     "Rufatik/Enterprise Defenses/01.10.2024.md",
-    "2024-10-03.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "README.md",
-    "Rufatik/images/WhatsApp Image 2024-10-02 at 16.46.12_4e9cbc45 1.jpg",
-    "Rufatik/images/WhatsApp Image 2024-10-02 at 16.46.12_4e9cbc45.jpg",
     "Rufatik/Notes for Interview",
-    "Untitled"
+    "Untitled",
+    "Untitled.canvas"
   ]
 }
