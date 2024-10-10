@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af399fa17dbaf167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,13 +168,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b6ac51bd502df6e",
+  "active": "af399fa17dbaf167",
   "lastOpenFiles": [
-    "Rufatik/Notes for Interview/Kerberoasting.md",
+    "Rufatik/Youtube/Modern web.md",
+    "conflict-files-obsidian-git.md",
     "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+    "Rufatik/Red for Blue/10.10.2024.md",
+    "Rufatik/Attachments/Pasted image 20241010094306.png",
+    "Rufatik/Notes for Interview/Kerberoasting.md",
     "Rufatik/OpSec/09.10.2024 Module 1.md",
     "Rufatik/GRC/07.10.2024 Module 1, Introduction to GRC.md",
-    "Rufatik/Youtube/Modern web.md",
     "Rufatik/Intro to DFIR/24.09.2024 Module 1, Incident Handling, Preparation Module 2, Detection.md",
     "Rufatik/OpSec",
     "Rufatik/GRC",
@@ -173,7 +189,6 @@
     "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
     "Rufatik/Attachments/Pasted image 20241004095947.png",
     "Rufatik/Attachments/Pasted image 20241004095907.png",
-    "conflict-files-obsidian-git.md",
     "Rufatik/Vocabulary/English.md",
     "Rufatik/Vocabulary",
     "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
@@ -183,7 +198,6 @@
     "Rufatik/Attachments/Pasted image 20241003122612.png",
     "Rufatik/Attachments/Pasted image 20241002142735.png",
     "Rufatik/Attachments/Pasted image 20241002141358.png",
-    "Rufatik/Attachments/Pasted image 20241002135824.png",
     "Rufatik/Attachments",
     "Rufatik/Enterprise Defenses/01.10.2024.md",
     "Rufatik/Notes for Interview",
