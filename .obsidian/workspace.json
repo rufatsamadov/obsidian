@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f25a07f09070d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "af399fa17dbaf167",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "file": "Rufatik/Notes for Interview/Forwarder Proxy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "file": "Rufatik/Notes for Interview/Forwarder Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "file": "Rufatik/Notes for Interview/Forwarder Proxy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md"
+                "file": "Rufatik/Notes for Interview/Forwarder Proxy.md"
               }
             }
           },
@@ -170,8 +157,9 @@
   },
   "active": "af399fa17dbaf167",
   "lastOpenFiles": [
-    "Rufatik/Notes for Interview/Kerberoasting.md",
     "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+    "Rufatik/Notes for Interview/Forwarder Proxy.md",
+    "Rufatik/Notes for Interview/Kerberoasting.md",
     "Rufatik/Youtube/Modern web.md",
     "conflict-files-obsidian-git.md",
     "Rufatik/Red for Blue/10.10.2024.md",
