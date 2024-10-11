@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14a7f34a68a77e12",
+            "id": "af399fa17dbaf167",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "file": "Rufatik/Notes for Interview/Forwarder Proxy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "file": "Rufatik/Notes for Interview/Forwarder Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,8 +102,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
-                "linksCollapsed": false,
+                "file": "Rufatik/Notes for Interview/Forwarder Proxy.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md"
+                "file": "Rufatik/Notes for Interview/Forwarder Proxy.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,36 +155,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14a7f34a68a77e12",
+  "active": "4b6ac51bd502df6e",
   "lastOpenFiles": [
-    "Rufatik/Attachments/Pasted image 20241011152954.png",
     "Rufatik/OpSec/11.10.2024 Module 2.md",
-    "Rufatik/OpSec/09.10.2024 Module 1.md",
+    "Rufatik/Attachments/Pasted image 20241011152954.png",
     "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
-    "conflict-files-obsidian-git.md",
     "Rufatik/Notes for Interview/Forwarder Proxy.md",
+    "Rufatik/Notes for Interview/Kerberoasting.md",
+    "Rufatik/Youtube/Modern web.md",
+    "conflict-files-obsidian-git.md",
     "Rufatik/Red for Blue/10.10.2024.md",
     "Rufatik/Attachments/Pasted image 20241010094306.png",
-    "Rufatik/Notes for Interview/Kerberoasting.md",
-    "Rufatik/OpSec",
-    "Rufatik/Attachments/Pasted image 20241008073616.png",
+    "Rufatik/OpSec/09.10.2024 Module 1.md",
     "Rufatik/GRC/07.10.2024 Module 1, Introduction to GRC.md",
-    "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
+    "Rufatik/Intro to DFIR/24.09.2024 Module 1, Incident Handling, Preparation Module 2, Detection.md",
+    "Rufatik/OpSec",
     "Rufatik/GRC",
-    "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
-    "Rufatik/Youtube/Modern web.md",
+    "Rufatik/Attachments/Pasted image 20241008073616.png",
+    "Rufatik/Intro to DFIR/23.09.2024 Module 0, Incident Response 101.md",
+    "README.md",
     "Rufatik/Youtube",
     "Rufatik/Red for Blue/04.10.2024 Module 3, Powershell Functions.md",
+    "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
     "Rufatik/Attachments/Pasted image 20241004095947.png",
     "Rufatik/Attachments/Pasted image 20241004095907.png",
+    "Rufatik/Vocabulary/English.md",
+    "Rufatik/Vocabulary",
+    "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
+    "Rufatik/Attachments/WhatsApp Image 2024-10-02 at 16.46.12_4e9cbc45.jpg",
+    "Rufatik/Attachments/Pasted image 20241003130330.png",
+    "Rufatik/Attachments/Pasted image 20241003130303.png",
+    "Rufatik/Attachments/Pasted image 20241003122612.png",
+    "Rufatik/Attachments/Pasted image 20241002142735.png",
+    "Rufatik/Attachments",
     "Rufatik/Enterprise Defenses/01.10.2024.md",
-    "2024-10-03.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "README.md",
-    "Rufatik/images/WhatsApp Image 2024-10-02 at 16.46.12_4e9cbc45 1.jpg",
-    "Rufatik/images/WhatsApp Image 2024-10-02 at 16.46.12_4e9cbc45.jpg",
     "Rufatik/Notes for Interview",
-    "Untitled"
+    "Untitled",
+    "Untitled.canvas"
   ]
 }
