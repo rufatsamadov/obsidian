@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "171563b47ba1dbcd",
+        "id": "686aa3af05b8618d",
         "type": "tabs",
         "children": [
           {
-            "id": "af399fa17dbaf167",
+            "id": "bffc2f0b0aa52dfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rufatik/Notes for Interview/Forwarder Proxy.md",
+                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/Notes for Interview/Forwarder Proxy.md",
+                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/Notes for Interview/Forwarder Proxy.md",
+                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rufatik/Notes for Interview/Forwarder Proxy.md"
+                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md"
               }
             }
           },
@@ -155,12 +155,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b6ac51bd502df6e",
+  "active": "bffc2f0b0aa52dfd",
   "lastOpenFiles": [
-    "Rufatik/OpSec/11.10.2024 Module 2.md",
-    "Rufatik/Attachments/Pasted image 20241011152954.png",
     "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
     "Rufatik/Notes for Interview/Forwarder Proxy.md",
+    "Rufatik/OpSec/11.10.2024 Module 2.md",
+    "Rufatik/Attachments/Pasted image 20241011152954.png",
     "Rufatik/Notes for Interview/Kerberoasting.md",
     "Rufatik/Youtube/Modern web.md",
     "conflict-files-obsidian-git.md",
