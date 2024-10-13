@@ -256,3 +256,9 @@ To mitigate the risks posed by Kerberoasting, organizations can take several ste
 
 ### Conclusion
 Kerberoasting is a dangerous attack that targets weaknesses in service account management within an Active Directory environment. By taking advantage of how Kerberos encrypts service tickets, attackers can escalate their privileges by cracking weak service account passwords. Proper defenses like using strong passwords, service account management, and monitoring can help mitigate the risk.
+
+
+***
+
+- If the ticket is generated using Mimikatz, then the ‘Account Domain’ field will contain the ‘eo.oe.kiki :)’ value
+- https://www.triskelelabs.com/blog/kerberoasting
