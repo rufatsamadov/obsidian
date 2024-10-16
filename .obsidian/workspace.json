@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "file": "Rufatik/Network Forensics/15.10.2024 Module 2, Packet Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "file": "Rufatik/Network Forensics/15.10.2024 Module 2, Packet Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+                "file": "Rufatik/Network Forensics/15.10.2024 Module 2, Packet Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rufatik/Notes for Interview/02.10.2024 All Questions.md"
+                "file": "Rufatik/Network Forensics/15.10.2024 Module 2, Packet Tools.md"
               }
             }
           },
@@ -157,21 +157,29 @@
   },
   "active": "14a7f34a68a77e12",
   "lastOpenFiles": [
+    "Rufatik/Network Forensics/14.10.2024.md",
     "Rufatik/Network Forensics/15.10.2024 Module 2, Packet Tools.md",
-    "Rufatik/Vocabulary/English.md",
+    "Rufatik/Intro to DFIR/30.09.2024 Module 6, The Scientific Method.md",
+    "Rufatik/Intro to DFIR/26.09.2024 Module 4, Containment and Evidence Collection and Module 5, Eradication, Recovery, and Lessons Learned.md",
+    "Rufatik/Intro to DFIR/25.09.2024 Module 3, Triage.md",
+    "Rufatik/Intro to DFIR/24.09.2024 Module 1, Incident Handling, Preparation Module 2, Detection.md",
+    "Rufatik/Intro to DFIR/23.09.2024 Module 0, Incident Response 101.md",
+    "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
+    "Rufatik/Intro to DFIR/02.10.2024 Module 9, Digital Evidence Analysis.md",
+    "Rufatik/Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
+    "Rufatik/OpSec/11.10.2024 Module 2.md",
+    "Rufatik/OpSec/09.10.2024 Module 1.md",
+    "Rufatik/Notes for Interview/Forwarder Proxy.md",
     "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
+    "Rufatik/Vocabulary/English.md",
     "Rufatik/Untitled",
     "Rufatik/Attachments/Pasted image 20241014202617.png",
-    "Rufatik/Network Forensics/14.10.2024.md",
     "Rufatik/Network Forensics",
     "Rufatik/Attachments/Pasted image 20241013173241.png",
     "Rufatik/Attachments/Pasted image 20241013173223.png",
     "Rufatik/Attachments/Pasted image 20241012194114.png",
     "Rufatik/Attachments/Pasted image 20241011152954.png",
-    "Rufatik/OpSec/11.10.2024 Module 2.md",
-    "Rufatik/OpSec/09.10.2024 Module 1.md",
     "conflict-files-obsidian-git.md",
-    "Rufatik/Notes for Interview/Forwarder Proxy.md",
     "Rufatik/Red for Blue/10.10.2024.md",
     "Rufatik/Attachments/Pasted image 20241010094306.png",
     "Rufatik/Notes for Interview/Kerberoasting.md",
@@ -180,7 +188,6 @@
     "Rufatik/GRC/07.10.2024 Module 1, Introduction to GRC.md",
     "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
     "Rufatik/GRC",
-    "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
     "Rufatik/Youtube/Modern web.md",
     "Rufatik/Youtube",
     "Rufatik/Red for Blue/04.10.2024 Module 3, Powershell Functions.md",
