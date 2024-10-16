@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rufatik/OpSec/11.10.2024 Module 2.md",
+                "file": "Rufatik/Network Forensics/16.10.2024 Module 3,.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/OpSec/11.10.2024 Module 2.md",
+                "file": "Rufatik/Network Forensics/16.10.2024 Module 3,.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/OpSec/11.10.2024 Module 2.md",
+                "file": "Rufatik/Network Forensics/16.10.2024 Module 3,.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rufatik/OpSec/11.10.2024 Module 2.md"
+                "file": "Rufatik/Network Forensics/16.10.2024 Module 3,.md"
               }
             }
           },
@@ -157,6 +157,9 @@
   },
   "active": "14a7f34a68a77e12",
   "lastOpenFiles": [
+    "Rufatik/Vocabulary/English.md",
+    "Rufatik/Network Forensics/16.10.2024 Module 3,.md",
+    "Rufatik/OpSec/11.10.2024 Module 2.md",
     "Rufatik/OpSec/09.10.2024 Module 1.md",
     "Rufatik/Notes for Interview/Kerberoasting.md",
     "Rufatik/Notes for Interview/Forwarder Proxy.md",
@@ -171,8 +174,6 @@
     "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
     "Rufatik/Intro to DFIR/02.10.2024 Module 9, Digital Evidence Analysis.md",
     "Rufatik/Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
-    "Rufatik/OpSec/11.10.2024 Module 2.md",
-    "Rufatik/Vocabulary/English.md",
     "Rufatik/Untitled",
     "Rufatik/Attachments/Pasted image 20241014202617.png",
     "Rufatik/Network Forensics",
