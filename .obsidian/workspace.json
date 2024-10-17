@@ -11,8 +11,12 @@
             "id": "823fceee8ab01b0a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Rufatik/Network Forensics/17.10.2024 Module 4.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/Network Forensics/16.10.2024 Module 3,.md",
+                "file": "Rufatik/Network Forensics/17.10.2024 Module 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/Network Forensics/16.10.2024 Module 3,.md",
+                "file": "Rufatik/Network Forensics/17.10.2024 Module 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rufatik/Network Forensics/16.10.2024 Module 3,.md"
+                "file": "Rufatik/Network Forensics/17.10.2024 Module 4.md"
               }
             }
           },
@@ -151,8 +155,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b6ac51bd502df6e",
+  "active": "823fceee8ab01b0a",
   "lastOpenFiles": [
+    "Rufatik/Attachments/Pasted image 20241017111258.png",
+    "Rufatik/Network Forensics/17.10.2024 Module 4.md",
     "Rufatik/Vocabulary/English.md",
     "Rufatik/Network Forensics/16.10.2024 Module 3,.md",
     "Rufatik/OpSec/11.10.2024 Module 2.md",
@@ -191,10 +197,8 @@
     "Rufatik/Attachments/Pasted image 20241004095947.png",
     "Rufatik/Attachments/Pasted image 20241004095907.png",
     "Rufatik/Enterprise Defenses/01.10.2024.md",
-    "2024-10-03.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "README.md",
     "Rufatik/images/WhatsApp Image 2024-10-02 at 16.46.12_4e9cbc45 1.jpg",
     "Rufatik/Notes for Interview",
     "Untitled"
