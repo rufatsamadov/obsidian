@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rufatik/Notes for Interview/LDAP and Global Catalog.md",
+                "file": "Rufatik/Notes for Interview/Normal user logon and Service user logon on AD by using Kerberos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/Notes for Interview/LDAP and Global Catalog.md",
+                "file": "Rufatik/Notes for Interview/Normal user logon and Service user logon on AD by using Kerberos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/Notes for Interview/LDAP and Global Catalog.md",
+                "file": "Rufatik/Notes for Interview/Normal user logon and Service user logon on AD by using Kerberos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rufatik/Notes for Interview/LDAP and Global Catalog.md"
+                "file": "Rufatik/Notes for Interview/Normal user logon and Service user logon on AD by using Kerberos.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "bffc2f0b0aa52dfd",
   "lastOpenFiles": [
-    "Rufatik/Explanation Using Photos/Photos.md",
     "Rufatik/Notes for Interview/LDAP and Global Catalog.md",
+    "Rufatik/Notes for Interview/Normal user logon and Service user logon on AD by using Kerberos.md",
+    "Rufatik/Explanation Using Photos/Photos.md",
     "Rufatik/Attachments/Pasted image 20241018221220.png",
     "Rufatik/Notes for Interview/Forwarder Proxy.md",
     "Rufatik/Network Forensics/17.10.2024 Module 4.md",
