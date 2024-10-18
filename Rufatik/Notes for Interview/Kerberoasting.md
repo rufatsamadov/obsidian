@@ -262,3 +262,6 @@ Kerberoasting is a dangerous attack that targets weaknesses in service account m
 
 - If the ticket is generated using Mimikatz, then the ‘Account Domain’ field will contain the ‘eo.oe.kiki :)’ value
 - https://www.triskelelabs.com/blog/kerberoasting
+***
+SPN
+First of all, an SPN is like an alias for an AD object, which can be a Service Account, User Account or Computer object, that lets other AD resources know which services are running under which accounts and creates associations between them in Active Directory.
