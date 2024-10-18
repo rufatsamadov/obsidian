@@ -265,3 +265,11 @@ Kerberoasting is a dangerous attack that targets weaknesses in service account m
 ***
 SPN
 First of all, an SPN is like an alias for an AD object, which can be a Service Account, User Account or Computer object, that lets other AD resources know which services are running under which accounts and creates associations between them in Active Directory.
+
+1. SPN - Service Principal Name. It is an identifier associated with each account in a KDC implementation(AD, OpenLDAP etc). Basically if your account acts as a service to which a client authenticates, the client has to specify "who" it wants to communicate to. This "who" identifier is the SPN. This is the strict definition. Many people often call the client name (UPN - User Principal Name) of a service as SPN. This happens when the service itself may act as a client( google the delegation scenario ). This is not strictly correct but widely assumed true.
+    
+2. Kerberos is a protocol for authentication. It is a name for a framework. It involves a third party server(called KDC or Key Distribution Centre) and involves a series of steps of acquiring tickets(tokens of authentication). It is really complicated so [http://en.wikipedia.org/wiki/Kerberos_(protocol)](http://en.wikipedia.org/wiki/Kerberos_(protocol))
+    
+3. To some extent you got this right. GSSAPI is an API but SPNEGO is not. GSSAPI is technically agnostic to the auth mechanism you use, but most folks use it for kerberos authentication. SPNEGO is a pseudo mechanism, in the sense it declares an RFC for authentication based communication in HTTP domain. Strictly speaking SPNEGO is a specification but most folks also consider it as an implementation. For instance, Sun and IBM JDK provides "mechanism providers" for SPNEGO token generation but GSSAPI is used to actually call it. This is done in many projects(Tomcat as a Server is and example that come to the top of my head and one of the folks who answered this question developed it).
+    
+4. SSPI is an analogue to GSSAPI in windows. Its a different API which ends up doing something very similar to GSSAPI.
