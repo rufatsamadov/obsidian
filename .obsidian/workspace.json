@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rufatik/Explanation Using Photos/Photos.md",
+                "file": "Rufatik/Network Forensics/17.10.2024 Module 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Photos"
+              "title": "17.10.2024 Module 4"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/Explanation Using Photos/Photos.md",
+                "file": "Rufatik/Network Forensics/17.10.2024 Module 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Photos"
+              "title": "Backlinks for 17.10.2024 Module 4"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/Explanation Using Photos/Photos.md",
+                "file": "Rufatik/Network Forensics/17.10.2024 Module 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Photos"
+              "title": "Outgoing links from 17.10.2024 Module 4"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rufatik/Explanation Using Photos/Photos.md"
+                "file": "Rufatik/Network Forensics/17.10.2024 Module 4.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Photos"
+              "title": "Outline of 17.10.2024 Module 4"
             }
           },
           {
@@ -190,9 +190,9 @@
   },
   "active": "8b2781e36e391827",
   "lastOpenFiles": [
+    "Rufatik/Explanation Using Photos/Photos.md",
     "Rufatik/Attachments/Pasted image 20241018133931.png",
     "Rufatik/Notes for Interview/Kerberoasting.md",
-    "Rufatik/Explanation Using Photos/Photos.md",
     "Rufatik/Explanation Using Photos",
     "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
     "Rufatik/Attachments/Pasted image 20241017114624.png",
@@ -230,7 +230,6 @@
     "Rufatik/Youtube/Modern web.md",
     "Rufatik/Youtube",
     "Rufatik/Red for Blue/04.10.2024 Module 3, Powershell Functions.md",
-    "Rufatik/Attachments/Pasted image 20241004095947.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Rufatik/Notes for Interview",
