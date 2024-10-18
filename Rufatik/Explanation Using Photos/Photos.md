@@ -7,3 +7,10 @@ LDAP structure
 
 ***
 
+![[Pasted image 20241018221220.png]]
+
+VLAN
+
+***
+
+
