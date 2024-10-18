@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rufatik/Notes for Interview/Kerberoasting.md",
+                "file": "Rufatik/Explanation Using Photos/Photos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kerberoasting"
+              "title": "Photos"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/Notes for Interview/Kerberoasting.md",
+                "file": "Rufatik/Explanation Using Photos/Photos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kerberoasting"
+              "title": "Backlinks for Photos"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/Notes for Interview/Kerberoasting.md",
+                "file": "Rufatik/Explanation Using Photos/Photos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kerberoasting"
+              "title": "Outgoing links from Photos"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rufatik/Notes for Interview/Kerberoasting.md"
+                "file": "Rufatik/Explanation Using Photos/Photos.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Kerberoasting"
+              "title": "Outline of Photos"
             }
           },
           {
@@ -190,6 +190,11 @@
   },
   "active": "8b2781e36e391827",
   "lastOpenFiles": [
+    "Rufatik/Attachments/Pasted image 20241018133931.png",
+    "Rufatik/Notes for Interview/Kerberoasting.md",
+    "Rufatik/Explanation Using Photos/Photos.md",
+    "Rufatik/Explanation Using Photos",
+    "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
     "Rufatik/Attachments/Pasted image 20241017114624.png",
     "Rufatik/Attachments/Pasted image 20241017111258.png",
     "Rufatik/Network Forensics/17.10.2024 Module 4.md",
@@ -197,9 +202,7 @@
     "Rufatik/Network Forensics/16.10.2024 Module 3,.md",
     "Rufatik/OpSec/11.10.2024 Module 2.md",
     "Rufatik/OpSec/09.10.2024 Module 1.md",
-    "Rufatik/Notes for Interview/Kerberoasting.md",
     "Rufatik/Notes for Interview/Forwarder Proxy.md",
-    "Rufatik/Notes for Interview/02.10.2024 All Questions.md",
     "Rufatik/Network Forensics/15.10.2024 Module 2, Packet Tools.md",
     "Rufatik/Network Forensics/14.10.2024.md",
     "Rufatik/Intro to DFIR/30.09.2024 Module 6, The Scientific Method.md",
@@ -210,7 +213,6 @@
     "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
     "Rufatik/Intro to DFIR/02.10.2024 Module 9, Digital Evidence Analysis.md",
     "Rufatik/Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
-    "Rufatik/Untitled",
     "Rufatik/Attachments/Pasted image 20241014202617.png",
     "Rufatik/Network Forensics",
     "Rufatik/Attachments/Pasted image 20241013173241.png",
@@ -229,8 +231,6 @@
     "Rufatik/Youtube",
     "Rufatik/Red for Blue/04.10.2024 Module 3, Powershell Functions.md",
     "Rufatik/Attachments/Pasted image 20241004095947.png",
-    "Rufatik/Attachments/Pasted image 20241004095907.png",
-    "Rufatik/Enterprise Defenses/01.10.2024.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Rufatik/Notes for Interview",
