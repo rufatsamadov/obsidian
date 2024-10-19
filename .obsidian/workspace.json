@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "686aa3af05b8618d",
+        "id": "10f47c8b5230d49c",
         "type": "tabs",
         "children": [
           {
-            "id": "bffc2f0b0aa52dfd",
+            "id": "5a5207f75cd25d93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rufatik/Notes for Interview/Normal user logon and Service user logon on AD by using Kerberos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -155,7 +151,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bffc2f0b0aa52dfd",
+  "active": "4b6ac51bd502df6e",
   "lastOpenFiles": [
     "Rufatik/Notes for Interview/LDAP and Global Catalog.md",
     "Rufatik/Notes for Interview/Normal user logon and Service user logon on AD by using Kerberos.md",
