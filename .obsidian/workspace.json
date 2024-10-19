@@ -11,8 +11,12 @@
             "id": "5a5207f75cd25d93",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Rufatik/Explanation Using Photos/Photos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/Notes for Interview/Normal user logon and Service user logon on AD by using Kerberos.md",
+                "file": "Rufatik/Explanation Using Photos/Photos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/Notes for Interview/Normal user logon and Service user logon on AD by using Kerberos.md",
+                "file": "Rufatik/Explanation Using Photos/Photos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rufatik/Notes for Interview/Normal user logon and Service user logon on AD by using Kerberos.md"
+                "file": "Rufatik/Explanation Using Photos/Photos.md"
               }
             }
           },
@@ -151,10 +155,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b6ac51bd502df6e",
+  "active": "5a5207f75cd25d93",
   "lastOpenFiles": [
-    "Rufatik/Notes for Interview/LDAP and Global Catalog.md",
     "Rufatik/Notes for Interview/Normal user logon and Service user logon on AD by using Kerberos.md",
+    "Rufatik/Notes for Interview/LDAP and Global Catalog.md",
     "Rufatik/Explanation Using Photos/Photos.md",
     "Rufatik/Attachments/Pasted image 20241018221220.png",
     "Rufatik/Notes for Interview/Forwarder Proxy.md",
