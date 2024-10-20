@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "10f47c8b5230d49c",
+        "id": "04677f1ff30747bb",
         "type": "tabs",
         "children": [
           {
-            "id": "5a5207f75cd25d93",
+            "id": "fc147bf3c6ac7f79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rufatik/Explanation Using Photos/Photos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/Explanation Using Photos/Photos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/Explanation Using Photos/Photos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -116,7 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -124,9 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rufatik/Explanation Using Photos/Photos.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -134,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -155,11 +165,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a5207f75cd25d93",
+  "active": "fc147bf3c6ac7f79",
   "lastOpenFiles": [
+    "README.md",
+    "Rufatik/Explanation Using Photos/Photos.md",
     "Rufatik/Notes for Interview/Normal user logon and Service user logon on AD by using Kerberos.md",
     "Rufatik/Notes for Interview/LDAP and Global Catalog.md",
-    "Rufatik/Explanation Using Photos/Photos.md",
     "Rufatik/Attachments/Pasted image 20241018221220.png",
     "Rufatik/Notes for Interview/Forwarder Proxy.md",
     "Rufatik/Network Forensics/17.10.2024 Module 4.md",
@@ -189,7 +200,6 @@
     "Rufatik/OpSec",
     "Rufatik/GRC",
     "Rufatik/Intro to DFIR/23.09.2024 Module 0, Incident Response 101.md",
-    "README.md",
     "Rufatik/Youtube",
     "Rufatik/Red for Blue/04.10.2024 Module 3, Powershell Functions.md",
     "Rufatik/Intro to DFIR/04.10.2024 Module 12, Current topics.md",
