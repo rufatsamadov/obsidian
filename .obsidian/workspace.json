@@ -11,10 +11,14 @@
             "id": "fc147bf3c6ac7f79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Rufatik/Network Forensics/20.10.2024 Bitmasking and Shifting.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "20.10.2024 Bitmasking and Shifting"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rufatik/Network Forensics/20.10.2024 Bitmasking and Shifting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 20.10.2024 Bitmasking and Shifting"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rufatik/Network Forensics/20.10.2024 Bitmasking and Shifting.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 20.10.2024 Bitmasking and Shifting"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Rufatik/Network Forensics/20.10.2024 Bitmasking and Shifting.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 20.10.2024 Bitmasking and Shifting"
             }
           },
           {
@@ -167,6 +175,7 @@
   },
   "active": "fc147bf3c6ac7f79",
   "lastOpenFiles": [
+    "Rufatik/Network Forensics/20.10.2024 Bitmasking and Shifting.md",
     "README.md",
     "Rufatik/Explanation Using Photos/Photos.md",
     "Rufatik/Notes for Interview/Normal user logon and Service user logon on AD by using Kerberos.md",
