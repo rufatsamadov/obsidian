@@ -7,3 +7,8 @@ LDAP structure
 
 ***
 
+![[Pasted image 20241018153341.png]]
+SSO
+
+***
+
