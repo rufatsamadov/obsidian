@@ -7,8 +7,18 @@ LDAP structure
 
 ***
 
+<<<<<<< HEAD
 ![[Pasted image 20241018153341.png]]
 SSO
 
 ***
 
+=======
+![[Pasted image 20241018221220.png]]
+
+VLAN
+
+***
+
+
+>>>>>>> origin/main

@@ -20,8 +20,22 @@
               "icon": "lucide-file",
               "title": "Photos"
             }
+          },
+          {
+            "id": "d76efc2c98712bae",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (conflict-files-obsidian-git)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rufatik/Explanation Using Photos/Photos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Photos"
+              "title": "Backlinks"
             }
           },
           {
@@ -112,12 +125,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rufatik/Explanation Using Photos/Photos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Photos"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,11 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rufatik/Explanation Using Photos/Photos.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Photos"
+              "title": "Outline"
             }
           },
           {
@@ -173,15 +183,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b2781e36e391827",
+  "active": "d76efc2c98712bae",
   "lastOpenFiles": [
+    "Rufatik/Network Forensics/20.10.2024 Bitmasking and Shifting.md",
+    "Rufatik/Notes for Interview/Normal user logon and Service user logon on AD by using Kerberos.md",
+    "conflict-files-obsidian-git.md",
+    "Rufatik/Explanation Using Photos/Photos.md",
+    "Rufatik/Notes for Interview/LDAP and Global Catalog.md",
+    "Rufatik/Attachments/Pasted image 20241018221220.png",
     "Rufatik/Attachments/Pasted image 20241018153341.png",
     "Rufatik/Attachments/Pasted image 20241018134514.png",
     "Rufatik/Attachments/Pasted image 20241018134328.png",
     "Rufatik/Attachments/Pasted image 20241018134225.png",
     "Rufatik/Attachments/Pasted image 20241018134149.png",
     "Rufatik/Network Forensics/17.10.2024 Module 4.md",
-    "Rufatik/Explanation Using Photos/Photos.md",
     "Rufatik/Attachments/Pasted image 20241018133931.png",
     "Rufatik/Notes for Interview/Kerberoasting.md",
     "Rufatik/Explanation Using Photos",
@@ -205,17 +220,12 @@
     "Rufatik/Intro to DFIR/01.10.2024 Module 8, Fundamental Digital Forensics Techniques.md",
     "Rufatik/Attachments/Pasted image 20241014202617.png",
     "Rufatik/Network Forensics",
-    "Rufatik/Attachments/Pasted image 20241013173241.png",
-    "Rufatik/Attachments/Pasted image 20241013173223.png",
-    "conflict-files-obsidian-git.md",
     "Rufatik/Red for Blue/10.10.2024.md",
     "Rufatik/OpSec",
     "Rufatik/GRC/07.10.2024 Module 1, Introduction to GRC.md",
     "Rufatik/Enterprise Defenses/03.10.2024 Module 3, Security Operations.md",
     "Rufatik/GRC",
-    "Rufatik/Youtube/Modern web.md",
     "Rufatik/Youtube",
-    "Rufatik/Red for Blue/04.10.2024 Module 3, Powershell Functions.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Rufatik/Notes for Interview",
