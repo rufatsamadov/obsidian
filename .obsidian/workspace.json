@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2ae38de5e1de18c3",
+        "id": "d2c25d8bef470e9e",
         "type": "tabs",
         "children": [
           {
-            "id": "8b2781e36e391827",
+            "id": "4140b7b1c5b4deae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rufatik/Explanation Using Photos/Photos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Photos"
+              "title": "New tab"
             }
           }
         ]
@@ -169,13 +165,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b6ac51bd502df6e",
+  "active": "4140b7b1c5b4deae",
   "lastOpenFiles": [
-    "Rufatik/Network Forensics/20.10.2024 Bitmasking and Shifting.md",
     "Rufatik/Notes for Interview/Normal user logon and Service user logon on AD by using Kerberos.md",
-    "conflict-files-obsidian-git.md",
-    "Rufatik/Explanation Using Photos/Photos.md",
     "Rufatik/Notes for Interview/LDAP and Global Catalog.md",
+    "Rufatik/Explanation Using Photos/Photos.md",
+    "Rufatik/Network Forensics/20.10.2024 Bitmasking and Shifting.md",
+    "conflict-files-obsidian-git.md",
     "Rufatik/Attachments/Pasted image 20241018221220.png",
     "Rufatik/Attachments/Pasted image 20241018153341.png",
     "Rufatik/Attachments/Pasted image 20241018134514.png",
