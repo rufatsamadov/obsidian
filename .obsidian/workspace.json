@@ -20,22 +20,8 @@
               "icon": "lucide-file",
               "title": "Photos"
             }
-          },
-          {
-            "id": "d76efc2c98712bae",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (conflict-files-obsidian-git)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d76efc2c98712bae",
+  "active": "4b6ac51bd502df6e",
   "lastOpenFiles": [
     "Rufatik/Network Forensics/20.10.2024 Bitmasking and Shifting.md",
     "Rufatik/Notes for Interview/Normal user logon and Service user logon on AD by using Kerberos.md",
